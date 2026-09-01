@@ -1,103 +1,56 @@
-<div align="center">
+<h1 align="center">Fábio Eduardo dos Santos</h1>
 
-<img src="./assets/profile-header.svg" width="100%" alt="Fábio Eduardo dos Santos — Engenheiro de Software Sênior" />
+<p align="center">
+  <strong>Engenheiro de Software Sênior</strong><br/>
+  Android/Kotlin • Java • PHP • SAP Business One • APIs e Cloud • Liderança Técnica e de Engenharia
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://fbsantos.com.br"><strong>🌐 Site profissional</strong></a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/fabioedusantos/"><strong>💼 LinkedIn</strong></a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/fabioedusantos?tab=repositories"><strong>💻 Repositórios</strong></a>
+</p>
 
-**Engenheiro de Software Sênior | Android/Kotlin • Java • PHP • SAP Business One • APIs e Cloud • Liderança Técnica e de Engenharia**
-
-[Site profissional](https://fbsantos.com.br) · [LinkedIn](https://www.linkedin.com/in/fabioedusantos/) · [Repositórios](https://github.com/fabioedusantos?tab=repositories)
-
-</div>
-
----
-
-## 👋 Sobre mim
-
-Sou engenheiro de software com **mais de 15 anos de experiência**, atuando na construção de aplicações, APIs, integrações e plataformas corporativas. Minha trajetória combina desenvolvimento **hands-on** com arquitetura, qualidade, infraestrutura e liderança de equipes.
-
-Gosto especialmente de problemas que atravessam várias camadas do produto: do aplicativo à API, do banco de dados à integração com ERP, do ambiente de execução ao processo de engenharia.
-
-Minha atuação passa principalmente por:
-
-- 📱 **Android nativo**, com Kotlin e Java;
-- ⚙️ **Backend e APIs**, com PHP, SlimPHP e integrações REST;
-- 🔗 **SAP Business One**, integrações e soluções conectadas ao ERP;
-- ☁️ **Cloud e infraestrutura**, com Docker, Linux e Google Cloud;
-- 🧭 **Liderança técnica e de engenharia**, qualidade, processos e desenvolvimento de pessoas.
-
-Também atuei como professor no ensino superior e técnico. Parte dos materiais utilizados em aula está preservada neste GitHub como acervo de estudo e registro da evolução dos projetos.
+> **Construo software de ponta a ponta:** aplicações mobile, APIs, integrações, dados e infraestrutura — equilibrando qualidade técnica, simplicidade, produto e pessoas.
 
 ---
 
-## 🚀 Projetos que representam meu trabalho
+## 👨‍💻 Sobre mim
 
-| Projeto | O que ele demonstra |
-| --- | --- |
-| **[Kotlin-SlimPHP-FullStack-Starter](https://github.com/fabioedusantos/Kotlin-SlimPHP-FullStack-Starter)** | Base full stack com **Android/Kotlin + Jetpack Compose** e backend **PHP/SlimPHP 4**, reunindo autenticação, JWT, MariaDB, Redis, Docker, Firebase e OpenAPI em um monorepo. |
-| **[Select2-jQuery-Extensions](https://github.com/fabioedusantos/Select2-jQuery-Extensions)** | Extensões reutilizáveis para Select2/jQuery, com pesquisa Ajax, selects locais e ajustes visuais. Nasceu de necessidades reais em sistemas web e integrações corporativas. |
-| **[SimpleHttpClient](https://github.com/fabioedusantos/SimpleHttpClient)** | Cliente HTTP simples em Java para `GET`, `POST`, `PUT` e `DELETE` usando `HttpURLConnection`, criado para reaproveitamento em projetos Java e Android. |
-| **[AppPresentes](https://github.com/fabioedusantos/AppPresentes)** | Monorepo Android + Web Service REST, com CRUD, autenticação, persistência e comunicação cliente/servidor. |
-| **[Android-Study-Fundamentals-2017](https://github.com/fabioedusantos/Android-Study-Fundamentals-2017)** | Série consolidada de aulas cobrindo UI, Activities, Intent/Bundle, adapters, SQLite, DAO e relacionamentos. |
-| **[Android-Study-Basics](https://github.com/fabioedusantos/Android-Study-Basics)** | Coleção de aulas introdutórias de Android com exemplos independentes e objetivos didáticos bem definidos. |
+Sou engenheiro de software com **mais de 15 anos de experiência**, atuando entre desenvolvimento, arquitetura, integrações empresariais, cloud e liderança de engenharia.
 
-> **Sugestão para os pins do perfil:** fixe os seis repositórios acima. Eles mostram variedade técnica sem misturar demais a vitrine principal com o acervo completo.
+Minha trajetória combina atuação **hands-on** com responsabilidade técnica sobre soluções que atravessam várias camadas: **Android, backend, APIs, bancos de dados, SAP Business One, infraestrutura e processos de engenharia**.
 
----
-
-## 🧩 Minha caixa de ferramentas
-
-**Linguagens**  
-`Kotlin` · `Java` · `PHP` · `JavaScript` · `SQL`
-
-**Android**  
-`Jetpack Compose` · `Material 3` · `Room` · `Retrofit/OkHttp` · `Firebase` · `SQLite`
-
-**Backend e APIs**  
-`SlimPHP` · `REST` · `JWT` · `OpenAPI` · `Redis` · `CodeIgniter` · `Laravel`
-
-**Dados**  
-`MariaDB` · `MySQL` · `SQLite` · `SQL Server`
-
-**Infraestrutura e entrega**  
-`Docker` · `Linux` · `Google Cloud` · `Git` · `automação de deploy` · `backup/restore`
-
-**Integrações corporativas**  
-`SAP Business One` · `Service Layer` · `DI API` · `UI API`
-
-**Engenharia**  
-`arquitetura` · `qualidade` · `BDD` · `testes` · `Scrum` · `Kanban` · `gestão de projetos` · `liderança técnica`
-
----
-
-## 🏗️ Como penso software
+Também atuei como professor no ensino superior e técnico. Parte do material que desenvolvi em sala de aula está preservada neste GitHub como acervo de estudo, prática e evolução dos projetos.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Produto antes da tecnologia
-Tecnologia é meio. Procuro entender o problema, as regras de negócio e o impacto da solução antes de escolher ferramentas e abstrações.
+### 📱 Mobile
+**Android nativo** com Kotlin e Java, Jetpack Compose, Material, persistência local, integrações REST, Firebase e aplicações offline.
 
 </td>
 <td width="50%" valign="top">
 
-### Simplicidade com responsabilidade
-Prefiro código compreensível, reutilizável e testável a arquiteturas sofisticadas que não entregam valor proporcional à complexidade.
+### ⚙️ Backend & APIs
+**PHP**, SlimPHP, APIs REST, autenticação, JWT, OpenAPI, Redis, integrações e serviços orientados ao negócio.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Integração de ponta a ponta
-Tenho interesse especial em soluções que conectam **mobile, backend, dados, ERP e infraestrutura**, sem perder clareza entre as responsabilidades.
+### 🔗 Integrações corporativas
+**SAP Business One**, Service Layer, DI API/UI API e integração entre ERP, aplicações web, mobile e serviços externos.
 
 </td>
 <td width="50%" valign="top">
 
-### Engenharia também é gente
-Qualidade de software passa por comunicação, documentação, processos saudáveis, autonomia e desenvolvimento das pessoas do time.
+### 🧭 Engenharia & liderança
+Arquitetura, qualidade, testes, processos, gestão de projetos, desenvolvimento de pessoas e liderança técnica.
 
 </td>
 </tr>
@@ -105,14 +58,146 @@ Qualidade de software passa por comunicação, documentação, processos saudáv
 
 ---
 
-## 🎓 Engenharia, liderança e compartilhamento de conhecimento
+## 🚀 Projetos em destaque
 
-Minha carreira não ficou restrita ao código. Também atuei com estruturação de times, processos de desenvolvimento, gestão de projetos e qualidade de software.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Como professor, produzi materiais de **Android, Java, SQLite, DAO, APIs REST e desenvolvimento mobile**. Os repositórios `Android-Study-*` organizam parte desse conteúdo por assunto e período.
+### [Kotlin-SlimPHP-FullStack-Starter](https://github.com/fabioedusantos/Kotlin-SlimPHP-FullStack-Starter)
+
+Base **full stack** reunindo Android/Kotlin + Jetpack Compose e backend PHP/SlimPHP 4 em um único monorepo.
+
+`Kotlin` `Compose` `SlimPHP` `JWT` `MariaDB` `Redis` `Docker` `Firebase`
+
+</td>
+<td width="50%" valign="top">
+
+### [Select2-jQuery-Extensions](https://github.com/fabioedusantos/Select2-jQuery-Extensions)
+
+Extensões reutilizáveis para Select2/jQuery criadas a partir de necessidades reais em sistemas web e integrações corporativas.
+
+`JavaScript` `jQuery` `Select2` `Ajax` `Bootstrap`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [SimpleHttpClient](https://github.com/fabioedusantos/SimpleHttpClient)
+
+Cliente HTTP enxuto em Java para operações GET, POST, PUT e DELETE com `HttpURLConnection`.
+
+`Java` `HTTP` `Android` `HttpURLConnection`
+
+</td>
+<td width="50%" valign="top">
+
+### [AppPresentes](https://github.com/fabioedusantos/AppPresentes)
+
+Monorepo Android + Web Service REST com CRUD, autenticação, persistência e comunicação cliente/servidor.
+
+`Android` `Java` `REST` `PHP` `SQLite`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Android-Study-Fundamentals-2017](https://github.com/fabioedusantos/Android-Study-Fundamentals-2017)
+
+Série consolidada de aulas: UI, Activities, Intent/Bundle, adapters, SQLite, DAO e relacionamentos.
+
+`Android` `Java` `SQLite` `DAO`
+
+</td>
+<td width="50%" valign="top">
+
+### [Android-Study-Basics](https://github.com/fabioedusantos/Android-Study-Basics)
+
+Coleção de exemplos introdutórios de Android organizada em aulas independentes.
+
+`Android` `Java` `Activities` `Widgets` `ListView`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+| Área | Tecnologias |
+| --- | --- |
+| **Linguagens** | `Kotlin` `Java` `PHP` `JavaScript` `SQL` |
+| **Android** | `Jetpack Compose` `Material` `Room` `Retrofit` `OkHttp` `Firebase` `SQLite` |
+| **Backend** | `SlimPHP` `REST` `JWT` `OpenAPI` `Redis` `CodeIgniter` `Laravel` |
+| **Dados** | `MariaDB` `MySQL` `SQLite` `SQL Server` |
+| **Cloud & DevOps** | `Docker` `Linux` `Google Cloud` `Git` `CI/CD` `backup/restore` |
+| **SAP Business One** | `Service Layer` `DI API` `UI API` `integrações` |
+| **Engenharia** | `arquitetura` `qualidade` `BDD` `testes` `Scrum` `Kanban` `liderança` |
+
+---
+
+## 📊 Atividade e contribuições
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="Calendário 3D de contribuições no GitHub de Fábio Eduardo dos Santos" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/contribution-snake.svg">
+    <img src="./assets/contribution-snake.svg" width="100%" alt="Animação das contribuições de Fábio Eduardo dos Santos no GitHub" />
+  </picture>
+</p>
+
+> Os gráficos acima são **gerados automaticamente pelo GitHub Actions e armazenados neste próprio repositório**. O calendário oficial do GitHub continua disponível logo abaixo deste README, com o detalhamento diário das contribuições.
+
+---
+
+## 🧠 Como penso software
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Produto antes da tecnologia
+Entender problema, contexto e regra de negócio vem antes da escolha de frameworks, padrões ou abstrações.
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 Simplicidade com responsabilidade
+Prefiro código legível, reutilizável e fácil de manter a complexidade arquitetural sem retorno proporcional.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔄 Visão de ponta a ponta
+Mobile, API, banco, ERP, infraestrutura e observabilidade fazem parte da mesma solução — com responsabilidades bem separadas.
+
+</td>
+<td width="50%" valign="top">
+
+### 🤝 Engenharia também é gente
+Qualidade depende de comunicação, documentação, autonomia, processos saudáveis e desenvolvimento das pessoas.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎓 Ensino e compartilhamento de conhecimento
+
+Atuei como professor em cursos de **Sistemas de Informação** e **Técnico em Informática**, produzindo materiais sobre Android, Java, SQLite, DAO, APIs REST e desenvolvimento mobile.
 
 <details>
-<summary><strong>Ver acervo técnico e acadêmico</strong></summary>
+<summary><strong>📚 Ver acervo acadêmico e técnico</strong></summary>
 
 <br/>
 
@@ -131,6 +216,10 @@ Como professor, produzi materiais de **Android, Java, SQLite, DAO, APIs REST e d
 ### Android + bibliotecas
 - [Android-Study-Barcode-QR-Scanner-2016](https://github.com/fabioedusantos/Android-Study-Barcode-QR-Scanner-2016)
 
+### Séries consolidadas
+- [Android-Study-Fundamentals-2017](https://github.com/fabioedusantos/Android-Study-Fundamentals-2017)
+- [Android-Study-Basics](https://github.com/fabioedusantos/Android-Study-Basics)
+
 ### Front-end
 - [VueJsMakeYourBurger](https://github.com/fabioedusantos/VueJsMakeYourBurger)
 
@@ -138,36 +227,21 @@ Como professor, produzi materiais de **Android, Java, SQLite, DAO, APIs REST e d
 
 ---
 
-## 📈 Atividade no GitHub
+## ✍️ Conteúdo, tecnologia e liderança
 
-O **calendário oficial de contribuições do GitHub**, exibido logo abaixo deste README no perfil, é a referência para minha atividade diária.
-
-Preferi manter esta página **sem gráficos dinâmicos de terceiros**: além de evitar imagens quebradas, isso deixa a apresentação mais rápida, estável e dependente apenas do próprio GitHub.
-
----
-
-## ✍️ Conteúdo e experiência compartilhada
-
-Além do código, escrevo e compartilho conteúdo sobre:
-
-- engenharia e desenvolvimento de software;
-- liderança técnica e gestão de equipes;
-- arquitetura e integração de sistemas;
-- SAP Business One;
-- APIs, cloud e modernização de aplicações.
+Também compartilho experiências sobre **engenharia de software, desenvolvimento, gestão de projetos, liderança e SAP Business One**.
 
 ➡️ **[Acompanhe meus artigos e publicações no LinkedIn](https://www.linkedin.com/in/fabioedusantos/)**
 
 ---
 
-## 🤝 Vamos conversar?
+## 🤝 Contato
 
-Se o assunto envolver **Android/Kotlin, Java, PHP, APIs, SAP Business One, arquitetura, cloud ou liderança de engenharia**, provavelmente teremos uma boa conversa.
-
-<div align="center">
-
-**Bauru · São Paulo · Brasil**
-
-[🌐 fbsantos.com.br](https://fbsantos.com.br) · [💼 LinkedIn](https://www.linkedin.com/in/fabioedusantos/) · [💻 GitHub](https://github.com/fabioedusantos)
-
-</div>
+<p align="center">
+  <strong>Bauru · São Paulo · Brasil</strong><br/><br/>
+  <a href="https://fbsantos.com.br">🌐 fbsantos.com.br</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/fabioedusantos/">💼 LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/fabioedusantos">💻 GitHub</a>
+</p>
