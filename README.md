@@ -10,55 +10,85 @@
   &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/fabioedusantos/"><strong>💼 LinkedIn</strong></a>
   &nbsp;•&nbsp;
+  <a href="http://lattes.cnpq.br/5862313428296953"><strong>🎓 Lattes</strong></a>
+  &nbsp;•&nbsp;
   <a href="https://github.com/fabioedusantos?tab=repositories"><strong>💻 Repositórios</strong></a>
 </p>
 
-> **Construo software de ponta a ponta:** aplicações mobile, APIs, integrações, dados e infraestrutura — equilibrando qualidade técnica, simplicidade, produto e pessoas.
+<p align="center">
+  <strong>Professor desde 2007 • Desenvolvedor de software desde 2009 • Liderança de engenharia desde 2018</strong>
+</p>
+
+> **Tecnologia, liderança e educação fazem parte da mesma história para mim.** Gosto de transformar problemas reais em soluções robustas, aproximando aplicação, API, dados, infraestrutura, integração e pessoas.
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👋 Muito prazer, sou o Fábio
 
-Sou engenheiro de software com **mais de 15 anos de experiência**, atuando entre desenvolvimento, arquitetura, integrações empresariais, cloud e liderança de engenharia.
+Minha história com tecnologia começou antes da carreira profissional, mas foi em **2009** que o desenvolvimento de software passou a fazer parte definitivamente da minha vida.
 
-Minha trajetória combina atuação **hands-on** com responsabilidade técnica sobre soluções que atravessam várias camadas: **Android, backend, APIs, bancos de dados, SAP Business One, infraestrutura e processos de engenharia**.
+Comecei pela web, especialmente com **PHP**, construindo portais e soluções em uma época em que frameworks ainda não dominavam o desenvolvimento. Com o tempo, minha atuação se ampliou para **Java, Android, integrações corporativas, SAP Business One, APIs, bancos de dados e cloud**.
 
-Também atuei como professor no ensino superior e técnico. Parte do material que desenvolvi em sala de aula está preservada neste GitHub como acervo de estudo, prática e evolução dos projetos.
+Não costumo enxergar desenvolvimento apenas pelas divisões de *front-end*, *back-end* ou *full stack*. O que me motiva é compreender o problema e construir a solução necessária — seja ela um aplicativo Android, uma API, uma integração com ERP, um processo de engenharia ou uma arquitetura inteira.
+
+Desde **2018**, também venho exercendo funções de liderança, coordenando equipes multidisciplinares, projetos, qualidade e infraestrutura, sem me afastar completamente do código.
+
+E existe uma parte essencial dessa trajetória que começou ainda antes: **a educação**. Dou aulas desde **2007**, em cursos de qualificação, técnicos e superiores. Ensinar tecnologia ajudou a formar a maneira como trabalho: explicar com clareza, organizar conhecimento, desenvolver pessoas e transformar complexidade em algo compreensível.
+
+---
+
+## 🧭 Minha jornada
+
+| Período | Marco |
+| --- | --- |
+| **2007** | Início da atuação como professor e instrutor de tecnologia. |
+| **2009** | Início da trajetória profissional em desenvolvimento de software, com forte atuação em PHP e aplicações web. |
+| **2011** | Conclusão do Bacharelado em Ciência da Computação. |
+| **2014** | Especialização em Desenvolvimento de Sistemas para Ambientes Web Baseados em Tecnologia Java. |
+| **2017** | Ampliação da atuação para soluções web/mobile integradas ao **SAP Business One**, APIs e infraestrutura em nuvem. |
+| **2018** | Início da atuação em **liderança de equipes de desenvolvimento**, gestão de projetos, qualidade e produtos. |
+| **2024** | Retorno com forte foco técnico em **Android nativo com Kotlin**, APIs, geolocalização, mapas e operação offline. |
+
+---
+
+## 💼 O que eu levo para um projeto
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📱 Mobile
-**Android nativo** com Kotlin e Java, Jetpack Compose, Material, persistência local, integrações REST, Firebase e aplicações offline.
+### 📱 Desenvolvimento de software
+Android nativo com **Kotlin e Java**, aplicações web, APIs, persistência local, integração com serviços e desenvolvimento orientado ao problema de negócio.
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Backend & APIs
-**PHP**, SlimPHP, APIs REST, autenticação, JWT, OpenAPI, Redis, integrações e serviços orientados ao negócio.
+### 🔗 Integrações corporativas
+Experiência com **SAP Business One**, Service Layer, DI API/UI API e integração entre ERP, aplicações web, mobile, APIs e serviços externos.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔗 Integrações corporativas
-**SAP Business One**, Service Layer, DI API/UI API e integração entre ERP, aplicações web, mobile e serviços externos.
+### ☁️ Cloud e infraestrutura
+Atuação com **Google Cloud Platform, Linux, Docker, balanceamento de carga, automação de deploy, backup/restore e alta disponibilidade**.
 
 </td>
 <td width="50%" valign="top">
 
-### 🧭 Engenharia & liderança
-Arquitetura, qualidade, testes, processos, gestão de projetos, desenvolvimento de pessoas e liderança técnica.
+### 🧭 Liderança e engenharia
+Gestão de equipes multidisciplinares, projetos, produtos e qualidade, com uso de **Scrum, Kanban, BDD, testes automatizados e indicadores para tomada de decisão**.
 
 </td>
 </tr>
 </table>
 
+Ao longo dessa trajetória, liderei equipes com **até 22 profissionais**, envolvendo desenvolvimento, análise, qualidade e DevOps. Também participei da criação e estruturação de áreas de qualidade, implantação de BDD e testes automatizados, gestão de ambientes em cloud e condução simultânea de múltiplos projetos.
+
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos que representam meu trabalho
 
 <table>
 <tr>
@@ -66,7 +96,7 @@ Arquitetura, qualidade, testes, processos, gestão de projetos, desenvolvimento 
 
 ### [Kotlin-SlimPHP-FullStack-Starter](https://github.com/fabioedusantos/Kotlin-SlimPHP-FullStack-Starter)
 
-Base **full stack** reunindo Android/Kotlin + Jetpack Compose e backend PHP/SlimPHP 4 em um único monorepo.
+Uma base que representa bem minha forma de trabalhar: **Android/Kotlin + Jetpack Compose** no cliente e **PHP/SlimPHP 4** no backend, reunidos em um monorepo.
 
 `Kotlin` `Compose` `SlimPHP` `JWT` `MariaDB` `Redis` `Docker` `Firebase`
 
@@ -75,7 +105,7 @@ Base **full stack** reunindo Android/Kotlin + Jetpack Compose e backend PHP/Slim
 
 ### [Select2-jQuery-Extensions](https://github.com/fabioedusantos/Select2-jQuery-Extensions)
 
-Extensões reutilizáveis para Select2/jQuery criadas a partir de necessidades reais em sistemas web e integrações corporativas.
+Extensões criadas para resolver necessidades reais de pesquisa e seleção em sistemas web, inclusive em projetos ligados ao **SAP Business One**.
 
 `JavaScript` `jQuery` `Select2` `Ajax` `Bootstrap`
 
@@ -86,7 +116,7 @@ Extensões reutilizáveis para Select2/jQuery criadas a partir de necessidades r
 
 ### [SimpleHttpClient](https://github.com/fabioedusantos/SimpleHttpClient)
 
-Cliente HTTP enxuto em Java para operações GET, POST, PUT e DELETE com `HttpURLConnection`.
+Cliente HTTP simples e reutilizável em Java, criado para ser levado entre projetos Android e Java sem dependências desnecessárias.
 
 `Java` `HTTP` `Android` `HttpURLConnection`
 
@@ -95,7 +125,7 @@ Cliente HTTP enxuto em Java para operações GET, POST, PUT e DELETE com `HttpUR
 
 ### [AppPresentes](https://github.com/fabioedusantos/AppPresentes)
 
-Monorepo Android + Web Service REST com CRUD, autenticação, persistência e comunicação cliente/servidor.
+Aplicativo Android e Web Service REST no mesmo monorepo, demonstrando a integração completa entre cliente, API, autenticação e persistência.
 
 `Android` `Java` `REST` `PHP` `SQLite`
 
@@ -106,7 +136,7 @@ Monorepo Android + Web Service REST com CRUD, autenticação, persistência e co
 
 ### [Android-Study-Fundamentals-2017](https://github.com/fabioedusantos/Android-Study-Fundamentals-2017)
 
-Série consolidada de aulas: UI, Activities, Intent/Bundle, adapters, SQLite, DAO e relacionamentos.
+Série de aulas consolidada em um único repositório, passando de fundamentos de interface até SQLite, DAO e tabelas relacionais.
 
 `Android` `Java` `SQLite` `DAO`
 
@@ -115,7 +145,7 @@ Série consolidada de aulas: UI, Activities, Intent/Bundle, adapters, SQLite, DA
 
 ### [Android-Study-Basics](https://github.com/fabioedusantos/Android-Study-Basics)
 
-Coleção de exemplos introdutórios de Android organizada em aulas independentes.
+Material introdutório criado em sala de aula para ensinar fundamentos do Android por meio de exemplos pequenos e independentes.
 
 `Android` `Java` `Activities` `Widgets` `ListView`
 
@@ -125,17 +155,18 @@ Coleção de exemplos introdutórios de Android organizada em aulas independente
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## 🛠️ Tecnologias que fazem parte da minha trajetória
 
 | Área | Tecnologias |
 | --- | --- |
-| **Linguagens** | `Kotlin` `Java` `PHP` `JavaScript` `SQL` |
+| **Linguagens** | `Kotlin` `Java` `PHP` `JavaScript` `SQL` `C#` `C` |
 | **Android** | `Jetpack Compose` `Material` `Room` `Retrofit` `OkHttp` `Firebase` `SQLite` |
-| **Backend** | `SlimPHP` `REST` `JWT` `OpenAPI` `Redis` `CodeIgniter` `Laravel` |
+| **Backend** | `SlimPHP` `CodeIgniter` `Laravel` `REST` `JWT` `OpenAPI` `Redis` |
+| **Front-end** | `Vue.js` `JavaScript` `jQuery` `Bootstrap` |
 | **Dados** | `MariaDB` `MySQL` `SQLite` `SQL Server` |
-| **Cloud & DevOps** | `Docker` `Linux` `Google Cloud` `Git` `CI/CD` `backup/restore` |
-| **SAP Business One** | `Service Layer` `DI API` `UI API` `integrações` |
-| **Engenharia** | `arquitetura` `qualidade` `BDD` `testes` `Scrum` `Kanban` `liderança` |
+| **SAP Business One** | `Service Layer` `DI API` `UI API` `integrações web/mobile` |
+| **Cloud & DevOps** | `Google Cloud` `Docker` `Linux` `Git` `CI/CD` `load balancing` `backup/restore` |
+| **Engenharia** | `arquitetura` `BDD` `testes` `Scrum` `Kanban` `gestão de projetos` `liderança` |
 
 ---
 
@@ -153,24 +184,24 @@ Coleção de exemplos introdutórios de Android organizada em aulas independente
   </picture>
 </p>
 
-> Os gráficos acima são **gerados automaticamente pelo GitHub Actions e armazenados neste próprio repositório**. O calendário oficial do GitHub continua disponível logo abaixo deste README, com o detalhamento diário das contribuições.
+> Os gráficos são gerados automaticamente pelo GitHub Actions e armazenados neste próprio repositório. O calendário oficial do GitHub continua disponível logo abaixo deste README, com o detalhamento diário das contribuições.
 
 ---
 
-## 🧠 Como penso software
+## 🧠 Minha forma de trabalhar
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 Produto antes da tecnologia
-Entender problema, contexto e regra de negócio vem antes da escolha de frameworks, padrões ou abstrações.
+### 🎯 Problema antes da ferramenta
+Frameworks mudam. O problema de negócio continua sendo o ponto de partida. Procuro entender o contexto antes de decidir a tecnologia.
 
 </td>
 <td width="50%" valign="top">
 
-### 🧩 Simplicidade com responsabilidade
-Prefiro código legível, reutilizável e fácil de manter a complexidade arquitetural sem retorno proporcional.
+### 🧩 Código precisa ser compreensível
+Gosto de soluções robustas, mas evito complexidade sem propósito. Código deve ser simples de entender, reutilizar, testar e manter.
 
 </td>
 </tr>
@@ -178,13 +209,13 @@ Prefiro código legível, reutilizável e fácil de manter a complexidade arquit
 <td width="50%" valign="top">
 
 ### 🔄 Visão de ponta a ponta
-Mobile, API, banco, ERP, infraestrutura e observabilidade fazem parte da mesma solução — com responsabilidades bem separadas.
+Não gosto de olhar somente para uma camada. Aplicativo, API, banco, ERP e infraestrutura precisam funcionar como partes coerentes da mesma solução.
 
 </td>
 <td width="50%" valign="top">
 
-### 🤝 Engenharia também é gente
-Qualidade depende de comunicação, documentação, autonomia, processos saudáveis e desenvolvimento das pessoas.
+### 🤝 Liderar é desenvolver pessoas
+Processos e ferramentas ajudam, mas equipes fortes são construídas com comunicação, autonomia, responsabilidade, confiança e aprendizado contínuo.
 
 </td>
 </tr>
@@ -192,9 +223,13 @@ Qualidade depende de comunicação, documentação, autonomia, processos saudáv
 
 ---
 
-## 🎓 Ensino e compartilhamento de conhecimento
+## 🎓 Educação faz parte da minha carreira
 
-Atuei como professor em cursos de **Sistemas de Informação** e **Técnico em Informática**, produzindo materiais sobre Android, Java, SQLite, DAO, APIs REST e desenvolvimento mobile.
+Minha atuação como professor começou em **2007** e passou por cursos de qualificação profissional, ensino técnico, graduação e educação a distância.
+
+Ensinei e produzi materiais sobre **lógica de programação, C, Java, Android, PHP, estruturas de dados, persistência, geolocalização, consumo de Web Services e desenvolvimento mobile**.
+
+Acredito que compartilhar conhecimento é uma das melhores formas de consolidá-lo. Muitos dos repositórios `Android-Study-*` deste perfil nasceram justamente das aulas e dos exemplos construídos junto aos alunos.
 
 <details>
 <summary><strong>📚 Ver acervo acadêmico e técnico</strong></summary>
@@ -227,21 +262,34 @@ Atuei como professor em cursos de **Sistemas de Informação** e **Técnico em I
 
 ---
 
-## ✍️ Conteúdo, tecnologia e liderança
+## ✍️ Desenvolvimento, gestão e conteúdo
 
-Também compartilho experiências sobre **engenharia de software, desenvolvimento, gestão de projetos, liderança e SAP Business One**.
+Gosto de escrever e conversar sobre temas que fazem parte da minha experiência prática: **desenvolvimento de software, arquitetura, liderança, gestão de projetos, qualidade, SAP Business One, cloud e integração de sistemas**.
 
-➡️ **[Acompanhe meus artigos e publicações no LinkedIn](https://www.linkedin.com/in/fabioedusantos/)**
+➡️ **[Artigos e publicações no LinkedIn](https://www.linkedin.com/in/fabioedusantos/)**  
+➡️ **[Conheça minha trajetória completa em fbsantos.com.br](https://fbsantos.com.br)**
 
 ---
 
-## 🤝 Contato
+## 🎹 Além do código
+
+Sou de **Bauru, interior de São Paulo**, e acredito que carreira e vida precisam caminhar juntas.
+
+Além da tecnologia, a música também faz parte de quem sou. Sou **tecladista**, e encontro nela um espaço de criatividade, equilíbrio e conexão que complementa muito bem a lógica e a intensidade do dia a dia em tecnologia.
+
+---
+
+## 🤝 Vamos conversar?
+
+Se o desafio envolver **software, Android/Kotlin, Java, PHP, SAP Business One, APIs, cloud, arquitetura ou liderança de engenharia**, será um prazer trocar ideias.
 
 <p align="center">
   <strong>Bauru · São Paulo · Brasil</strong><br/><br/>
   <a href="https://fbsantos.com.br">🌐 fbsantos.com.br</a>
   &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/fabioedusantos/">💼 LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="http://lattes.cnpq.br/5862313428296953">🎓 Lattes</a>
   &nbsp;•&nbsp;
   <a href="https://github.com/fabioedusantos">💻 GitHub</a>
 </p>
