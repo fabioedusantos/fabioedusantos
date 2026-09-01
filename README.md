@@ -1,123 +1,173 @@
 <div align="center">
 
-# Fábio Eduardo dos Santos
+<img src="./assets/profile-header.svg" width="100%" alt="Fábio Eduardo dos Santos — Engenheiro de Software Sênior" />
 
-### Senior Software Engineer · Android/Kotlin · PHP/SlimPHP · SAP Business One · Engineering Leadership
+<br/>
 
-Desenvolvimento de software, arquitetura, integrações e liderança de engenharia com foco em soluções web, mobile e corporativas.
+**Engenheiro de Software Sênior | Android/Kotlin • Java • PHP • SAP Business One • APIs e Cloud • Liderança Técnica e de Engenharia**
 
-[![Website](https://img.shields.io/badge/Website-fbsantos.com.br-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fbsantos.com.br)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-fabioedusantos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabioedusantos/)
-[![GitHub](https://img.shields.io/badge/GitHub-fabioedusantos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fabioedusantos)
+[Site profissional](https://fbsantos.com.br) · [LinkedIn](https://www.linkedin.com/in/fabioedusantos/) · [Repositórios](https://github.com/fabioedusantos?tab=repositories)
 
 </div>
 
-## Sobre mim
+---
 
-Sou desenvolvedor de software e líder de engenharia com mais de 15 anos de experiência, atuando entre desenvolvimento **web**, **mobile**, **backend**, integrações empresariais e gestão técnica de produtos e equipes.
+## 👋 Sobre mim
 
-Minha trajetória combina execução técnica e liderança: desenvolvimento Android nativo com **Kotlin**, APIs e aplicações em **PHP**, integração com **SAP Business One**, bancos relacionais, infraestrutura em nuvem, Docker, qualidade de software e condução de times multidisciplinares.
+Sou engenheiro de software com **mais de 15 anos de experiência**, atuando na construção de aplicações, APIs, integrações e plataformas corporativas. Minha trajetória combina desenvolvimento **hands-on** com arquitetura, qualidade, infraestrutura e liderança de equipes.
 
-Também tenho uma relação próxima com educação. Atuei como professor e mantenho neste GitHub parte dos materiais produzidos em sala de aula, especialmente sobre **Android, Java, SQLite, APIs REST e fundamentos de desenvolvimento mobile**.
+Gosto especialmente de problemas que atravessam várias camadas do produto: do aplicativo à API, do banco de dados à integração com ERP, do ambiente de execução ao processo de engenharia.
 
-> Este perfil reúne duas frentes: projetos e estudos técnicos mais recentes e um acervo de materiais acadêmicos publicados entre 2016 e 2018. Os repositórios `Android-Study-*` preservam os exemplos utilizados nas aulas e ajudam a contar a evolução da plataforma Android e da minha própria trajetória como desenvolvedor e professor.
+Minha atuação passa principalmente por:
 
-## Áreas de atuação
+- 📱 **Android nativo**, com Kotlin e Java;
+- ⚙️ **Backend e APIs**, com PHP, SlimPHP e integrações REST;
+- 🔗 **SAP Business One**, integrações e soluções conectadas ao ERP;
+- ☁️ **Cloud e infraestrutura**, com Docker, Linux e Google Cloud;
+- 🧭 **Liderança técnica e de engenharia**, qualidade, processos e desenvolvimento de pessoas.
 
-| Área | Tecnologias e experiência |
+Também atuei como professor no ensino superior e técnico. Parte dos materiais utilizados em aula está preservada neste GitHub como acervo de estudo e registro da evolução dos projetos.
+
+---
+
+## 🚀 Projetos que representam meu trabalho
+
+| Projeto | O que ele demonstra |
 | --- | --- |
-| **Android nativo** | Kotlin, Java, Jetpack Compose, Material 3, Room, Retrofit/OkHttp, Firebase, biometria e aplicações offline |
-| **Backend & APIs** | PHP, SlimPHP, CodeIgniter, Laravel, REST, JWT, OpenAPI, Redis e integrações |
-| **SAP Business One** | Service Layer, DI API/UI API, integrações web/mobile e modernização de soluções conectadas ao ERP |
-| **Dados** | MariaDB, MySQL, SQLite, SQL Server e modelagem de dados |
-| **Cloud & DevOps** | Google Cloud Platform, Docker, Linux, load balancing, automação de deploy, backup e alta disponibilidade |
-| **Engenharia & liderança** | Arquitetura, qualidade, BDD, testes, Scrum, Kanban, gestão de projetos, pessoas e produtos |
+| **[Kotlin-SlimPHP-FullStack-Starter](https://github.com/fabioedusantos/Kotlin-SlimPHP-FullStack-Starter)** | Base full stack com **Android/Kotlin + Jetpack Compose** e backend **PHP/SlimPHP 4**, reunindo autenticação, JWT, MariaDB, Redis, Docker, Firebase e OpenAPI em um monorepo. |
+| **[Select2-jQuery-Extensions](https://github.com/fabioedusantos/Select2-jQuery-Extensions)** | Extensões reutilizáveis para Select2/jQuery, com pesquisa Ajax, selects locais e ajustes visuais. Nasceu de necessidades reais em sistemas web e integrações corporativas. |
+| **[SimpleHttpClient](https://github.com/fabioedusantos/SimpleHttpClient)** | Cliente HTTP simples em Java para `GET`, `POST`, `PUT` e `DELETE` usando `HttpURLConnection`, criado para reaproveitamento em projetos Java e Android. |
+| **[AppPresentes](https://github.com/fabioedusantos/AppPresentes)** | Monorepo Android + Web Service REST, com CRUD, autenticação, persistência e comunicação cliente/servidor. |
+| **[Android-Study-Fundamentals-2017](https://github.com/fabioedusantos/Android-Study-Fundamentals-2017)** | Série consolidada de aulas cobrindo UI, Activities, Intent/Bundle, adapters, SQLite, DAO e relacionamentos. |
+| **[Android-Study-Basics](https://github.com/fabioedusantos/Android-Study-Basics)** | Coleção de aulas introdutórias de Android com exemplos independentes e objetivos didáticos bem definidos. |
 
-## Projetos em destaque
+> **Sugestão para os pins do perfil:** fixe os seis repositórios acima. Eles mostram variedade técnica sem misturar demais a vitrine principal com o acervo completo.
 
-| Projeto | Destaques |
-| --- | --- |
-| **[Kotlin-SlimPHP-FullStack-Starter](https://github.com/fabioedusantos/Kotlin-SlimPHP-FullStack-Starter)** | Monorepo full stack com Android/Kotlin + Jetpack Compose e API REST em PHP/SlimPHP 4. Inclui autenticação, JWT, MariaDB, Redis, Docker, Firebase e OpenAPI. |
-| **[Select2-jQuery-Extensions](https://github.com/fabioedusantos/Select2-jQuery-Extensions)** | Extensões jQuery para Select2 com pesquisa Ajax, selects locais, reset e ajustes visuais. Utilitário criado para reaproveitamento em sistemas web, inclusive integrações SAP Business One. |
-| **[SimpleHttpClient](https://github.com/fabioedusantos/SimpleHttpClient)** | Cliente HTTP enxuto em Java para GET, POST, PUT e DELETE com `HttpURLConnection`, reutilizável em Java e Android. |
-| **[AppPresentes](https://github.com/fabioedusantos/AppPresentes)** | Projeto full stack acadêmico com aplicativo Android e Web Service REST, cobrindo CRUD, autenticação e integração cliente/servidor. |
-| **[Android-Study-Fundamentals-2017](https://github.com/fabioedusantos/Android-Study-Fundamentals-2017)** | Monorepo com seis aulas: UI, Activities, Intent/Bundle, ListView/Spinner, SQLite/DAO e relacionamentos. |
-| **[Android-Study-Basics](https://github.com/fabioedusantos/Android-Study-Basics)** | Série de cinco aulas de 2018 com fundamentos de Android, ciclo de vida, navegação, widgets e ListView. |
+---
 
-## Acervo técnico e acadêmico
+## 🧩 Minha caixa de ferramentas
 
-Além dos projetos em destaque, o perfil mantém exemplos focados em conceitos específicos:
+**Linguagens**  
+`Kotlin` · `Java` · `PHP` · `JavaScript` · `SQL`
 
-- **Android + SQLite/DAO:** `Android-Study-SQLite-DAO-2016`, `Android-Study-DAO-SQLite`, `Android-Study-CRUD-SQLite`, `Android-Study-Pedidos`;
-- **Android + comunicação/dados:** `Android-Study-REST-JSON-2016`, `Android-Study-JSON-Parsing-2016`, `Android-Study-Activity-Intent-Bundle-2016`;
-- **Android + bibliotecas:** `Android-Study-Barcode-QR-Scanner-2016`;
-- **Android legado:** `Android-Study-Eclipse-ADT-SQLite-CRUD-2016`;
-- **Front-end:** `VueJsMakeYourBurger`;
-- **Portfólio:** `SitePessoal`.
+**Android**  
+`Jetpack Compose` · `Material 3` · `Room` · `Retrofit/OkHttp` · `Firebase` · `SQLite`
 
-## Stack
+**Backend e APIs**  
+`SlimPHP` · `REST` · `JWT` · `OpenAPI` · `Redis` · `CodeIgniter` · `Laravel`
 
-<div align="center">
+**Dados**  
+`MariaDB` · `MySQL` · `SQLite` · `SQL Server`
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![SlimPHP](https://img.shields.io/badge/SlimPHP%204-74A045?style=flat-square&logo=php&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP%20Business%20One-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+**Infraestrutura e entrega**  
+`Docker` · `Linux` · `Google Cloud` · `Git` · `automação de deploy` · `backup/restore`
 
-</div>
+**Integrações corporativas**  
+`SAP Business One` · `Service Layer` · `DI API` · `UI API`
 
-## Atividade no GitHub
+**Engenharia**  
+`arquitetura` · `qualidade` · `BDD` · `testes` · `Scrum` · `Kanban` · `gestão de projetos` · `liderança técnica`
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabioedusantos&theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabioedusantos&theme=github">
-    <img alt="Contribuições de Fábio Eduardo dos Santos no GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabioedusantos&theme=github">
-  </picture>
-</p>
+---
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fabioedusantos&theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fabioedusantos&theme=github">
-    <img height="180" alt="Estatísticas do GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fabioedusantos&theme=github">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fabioedusantos&theme=github_dark&utcOffset=-3">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fabioedusantos&theme=github&utcOffset=-3">
-    <img height="180" alt="Horários de contribuição no GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fabioedusantos&theme=github&utcOffset=-3">
-  </picture>
-</p>
+## 🏗️ Como penso software
 
-### Atividade recente
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[![Gráfico de atividade do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=fabioedusantos&theme=github-compact&hide_border=true&area=true)](https://github.com/fabioedusantos)
+### Produto antes da tecnologia
+Tecnologia é meio. Procuro entender o problema, as regras de negócio e o impacto da solução antes de escolher ferramentas e abstrações.
 
-> O calendário nativo de contribuições do GitHub continua disponível logo abaixo do README do perfil e apresenta a atividade diária ao longo do ano.
+</td>
+<td width="50%" valign="top">
 
-## Tecnologia, liderança e compartilhamento de conhecimento
+### Simplicidade com responsabilidade
+Prefiro código compreensível, reutilizável e testável a arquiteturas sofisticadas que não entregam valor proporcional à complexidade.
 
-Ao longo da carreira, trabalhei tanto na construção de software quanto na estruturação de times, processos e produtos. Tenho interesse especial por problemas que atravessam mais de uma camada: **aplicativo, API, banco de dados, integração, infraestrutura e processo de engenharia**.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Também produzo conteúdo sobre desenvolvimento, liderança, gestão de projetos e SAP Business One e mantenho parte do material de minhas aulas disponível publicamente como forma de compartilhar conhecimento e preservar a evolução dos projetos.
+### Integração de ponta a ponta
+Tenho interesse especial em soluções que conectam **mobile, backend, dados, ERP e infraestrutura**, sem perder clareza entre as responsabilidades.
 
-## Contato
+</td>
+<td width="50%" valign="top">
+
+### Engenharia também é gente
+Qualidade de software passa por comunicação, documentação, processos saudáveis, autonomia e desenvolvimento das pessoas do time.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎓 Engenharia, liderança e compartilhamento de conhecimento
+
+Minha carreira não ficou restrita ao código. Também atuei com estruturação de times, processos de desenvolvimento, gestão de projetos e qualidade de software.
+
+Como professor, produzi materiais de **Android, Java, SQLite, DAO, APIs REST e desenvolvimento mobile**. Os repositórios `Android-Study-*` organizam parte desse conteúdo por assunto e período.
+
+<details>
+<summary><strong>Ver acervo técnico e acadêmico</strong></summary>
+
+<br/>
+
+### Android + persistência
+- [Android-Study-SQLite-DAO-2016](https://github.com/fabioedusantos/Android-Study-SQLite-DAO-2016)
+- [Android-Study-Eclipse-ADT-SQLite-CRUD-2016](https://github.com/fabioedusantos/Android-Study-Eclipse-ADT-SQLite-CRUD-2016)
+- [Android-Study-DAO-SQLite](https://github.com/fabioedusantos/Android-Study-DAO-SQLite)
+- [Android-Study-CRUD-SQLite](https://github.com/fabioedusantos/Android-Study-CRUD-SQLite)
+- [Android-Study-Pedidos](https://github.com/fabioedusantos/Android-Study-Pedidos)
+
+### Android + comunicação e dados
+- [Android-Study-REST-JSON-2016](https://github.com/fabioedusantos/Android-Study-REST-JSON-2016)
+- [Android-Study-JSON-Parsing-2016](https://github.com/fabioedusantos/Android-Study-JSON-Parsing-2016)
+- [Android-Study-Activity-Intent-Bundle-2016](https://github.com/fabioedusantos/Android-Study-Activity-Intent-Bundle-2016)
+
+### Android + bibliotecas
+- [Android-Study-Barcode-QR-Scanner-2016](https://github.com/fabioedusantos/Android-Study-Barcode-QR-Scanner-2016)
+
+### Front-end
+- [VueJsMakeYourBurger](https://github.com/fabioedusantos/VueJsMakeYourBurger)
+
+</details>
+
+---
+
+## 📈 Atividade no GitHub
+
+O **calendário oficial de contribuições do GitHub**, exibido logo abaixo deste README no perfil, é a referência para minha atividade diária.
+
+Preferi manter esta página **sem gráficos dinâmicos de terceiros**: além de evitar imagens quebradas, isso deixa a apresentação mais rápida, estável e dependente apenas do próprio GitHub.
+
+---
+
+## ✍️ Conteúdo e experiência compartilhada
+
+Além do código, escrevo e compartilho conteúdo sobre:
+
+- engenharia e desenvolvimento de software;
+- liderança técnica e gestão de equipes;
+- arquitetura e integração de sistemas;
+- SAP Business One;
+- APIs, cloud e modernização de aplicações.
+
+➡️ **[Acompanhe meus artigos e publicações no LinkedIn](https://www.linkedin.com/in/fabioedusantos/)**
+
+---
+
+## 🤝 Vamos conversar?
+
+Se o assunto envolver **Android/Kotlin, Java, PHP, APIs, SAP Business One, arquitetura, cloud ou liderança de engenharia**, provavelmente teremos uma boa conversa.
 
 <div align="center">
 
 **Bauru · São Paulo · Brasil**
 
-[Website](https://fbsantos.com.br) · [LinkedIn](https://www.linkedin.com/in/fabioedusantos/) · [GitHub](https://github.com/fabioedusantos)
+[🌐 fbsantos.com.br](https://fbsantos.com.br) · [💼 LinkedIn](https://www.linkedin.com/in/fabioedusantos/) · [💻 GitHub](https://github.com/fabioedusantos)
 
 </div>
