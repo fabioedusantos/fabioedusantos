@@ -102,7 +102,7 @@ Além dos projetos em destaque, o perfil mantém exemplos focados em conceitos e
 
 ### Atividade recente
 
-[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fabioedusantos&theme=github-compact&hide_border=true&area=true)](https://github.com/fabioedusantos)
+[![Gráfico de atividade do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=fabioedusantos&theme=github-compact&hide_border=true&area=true)](https://github.com/fabioedusantos)
 
 > O calendário nativo de contribuições do GitHub continua disponível logo abaixo do README do perfil e apresenta a atividade diária ao longo do ano.
 
